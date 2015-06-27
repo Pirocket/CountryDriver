@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts-GamePlay\MenuAppear.cs">
+    <Files>
+      <File FileName="Assets\Scripts-GamePlay\MenuAppear.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts-HPnGO\ButnDoSmthng.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts-GamePlay\OppositeCars.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts-GamePlay\PauseGameYo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts-GamePlay\MenuFunc.cs" Line="108" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
